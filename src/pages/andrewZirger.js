@@ -15,7 +15,7 @@ export default function examplePage() {
                 />
 
                 <p className='description'>
-                    I dont know if you know this, but... I am kind of a big deal. I have
+                    He dont know if you know this, but... I am kind of a big deal. I have
                     many leather bound books and my apartment smells of rich mahogany. I
                     am also a five-time local Emmy award-winning anchor for the KVWN Channel
                     4 News in San Diego. When im not reading the news, you will find me
