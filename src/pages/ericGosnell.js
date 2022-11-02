@@ -19,7 +19,7 @@ export default function examplePage() {
                 </p>
 
                 <a className='button' href='/'>
-                    <p> Back to Home Page</p>
+                    <p> Return to Home Page</p>
                 </a>
             </main>
 
