@@ -6,20 +6,17 @@ export default function examplePage() {
 
             <main>
                 <div className='underline'>
-                    <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+                    <h1 className='title'>CHEEEESE: need i say more</h1>
                 </div>
                 <img
                     className='pic'
-                    src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-                    alt='ron burgundy'
+                    src='https://static.vecteezy.com/system/resources/previews/008/469/571/original/triangular-piece-of-yellow-cheese-with-holes-isolated-on-transparent-background-hi-res-food-image-png.png'
+                    alt='cheese'
                 />
 
                 <p className='description'>
-                    I dont know if you know this, but... I am kind of a big deal. I have
-                    many leather bound books and my apartment smells of rich mahogany. I
-                    am also a five-time local Emmy award-winning anchor for the KVWN Channel
-                    4 News in San Diego. When im not reading the news, you will find me
-                    playing the jazz flute around the city at different establishments.
+                    I really like cheese. You can eat it alone. You can eat it with others. You can eat it by itself. You can eat it with other foods. And now consider the permutations: alone and by itself, alone and with other foods, with others and by itself, and with others and with other foods.
+                    If you are still not convinced, just check out <a href='https://en.wikipedia.org/wiki/Cheese'>the cheese manual</a>.
                 </p>
 
                 <a className='button' href='/'>
