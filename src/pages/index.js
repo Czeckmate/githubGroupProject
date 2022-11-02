@@ -17,7 +17,7 @@ export default function Home() {
         <div className='grid'>
           <a href='/maxEaton' className='card'>
             <h3>What Max Likes &rarr;</h3>
-            <p>Candy</p>
+            <p>All About Cheese</p>
           </a>
             <a href='/ericGosnell' className='card'>
                 <h3>What Eric Likes &rarr;</h3>
@@ -25,15 +25,15 @@ export default function Home() {
             </a>
             <a href='/andrewZirger' className='card'>
                 <h3>What Andrew Likes &rarr;</h3>
-                <p>Cheese</p>
+                <p>Not Cheese, I DESPISE it!</p>
             </a>
         </div>
       </main>
 
       <footer>
-        <a href='' target='_blank' rel='noopener noreferrer'>
+        <p>
           Copyright CSCI 1000
-        </a>
+        </p>
       </footer>
 
       <style jsx>{`
