@@ -1,25 +1,21 @@
 export default function examplePage() {
     return (
         <div className='container'>
-            <title>Website</title>
+            <title>Eric Gosnell</title>
             <link rel='icon' href='/favicon.ico' />
 
             <main>
                 <div className='underline'>
-                    <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+                    <h1 className='title'>Hello, I'm Eric Gosnell</h1>
                 </div>
                 <img
                     className='pic'
-                    src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-                    alt='ron burgundy'
+                    src='https://www.intrepidtravel.com/adventures/wp-content/uploads/2018/05/800.jpg'
+                    alt='arctic mountain'
                 />
 
                 <p className='description'>
-                    I dont know if you know this, but... I am kind of a big deal. I have
-                    many leather bound books and my apartment smells of rich mahogany. I
-                    am also a five-time local Emmy award-winning anchor for the KVWN Channel
-                    4 News in San Diego. When im not reading the news, you will find me
-                    playing the jazz flute around the city at different establishments.
+                    Mountain: Made of rock, covered in snow, if you have any questions let me know.
                 </p>
 
                 <a className='button' href='/'>
