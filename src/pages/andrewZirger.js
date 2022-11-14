@@ -6,24 +6,26 @@ export default function examplePage() {
 
             <main>
                 <div className='underline'>
-                    <h1 className='title'>Hello, Im Ron Burgundy?</h1>
+                    <h1 className='title'>Hello, Im Andrew Zirger?</h1>
                 </div>
                 <img
                     className='pic'
-                    src='https://pbs.twimg.com/profile_images/415961110635110400/xPO9YqTC.jpeg'
-                    alt='ron burgundy'
+                    src='https://twitter.com/AndrewZirger/photo'
+                    alt='picture of me'
                 />
 
                 <p className='description'>
-                    He dont know if you know this, but... I am kind of a big deal. I have
-                    many leather bound books and my apartment smells of rich mahogany. I
-                    am also a five-time local Emmy award-winning anchor for the KVWN Channel
-                    4 News in San Diego. When im not reading the news, you will find me
-                    playing the jazz flute around the city at different establishments.
+                    Hello, my name is Andrew, I am a freshman CS major at CU Boulder. This 
+                    is a short about me page. I have lived in Boulder all my life. I have 
+                    always enjoyed coding, and as such, Computer Science seemed like a natural 
+                    field for me to go into. After taking CS courses in high school, this 
+                    dicision seemed even more clear. I also hope to pursue a few minors in 
+                    different areas of interest including, but not limited to, math, physics,
+                    french, and quantum engineering.
                 </p>
 
                 <a className='button' href='/'>
-                    <p> Back to Home Page</p>
+                    <p> Back to the Home Page</p>
                 </a>
             </main>
 
