@@ -6,11 +6,11 @@ export default function examplePage() {
 
             <main>
                 <div className='underline'>
-                    <h1 className='title'>Hello, Im Andrew Zirger?</h1>
+                    <h1 className='title'>Hello, I'm Andrew Zirger</h1>
                 </div>
                 <img
                     className='pic'
-                    src='https://twitter.com/AndrewZirger/photo'
+                    src='https://media-exp1.licdn.com/dms/image/C5603AQG1LBbtRh0bRA/profile-displayphoto-shrink_200_200/0/1662345234745?e=1669852800&v=beta&t=A8duTK1NjqtUCQ7AvRzdSXLlje3YzPjqRZEqoDfdBbQ'
                     alt='picture of me'
                 />
 
